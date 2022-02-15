@@ -10,7 +10,7 @@ div{
 }
 body{
     background-color: #f84747;
-    background-image: url(./love_potion.png);
+    background-image: url(./guy-fieri-being-eye-candy.jpeg);
     background-size: 35vw;
     background-position: 0vh 45vh;
     background-repeat: no-repeat;
@@ -21,6 +21,13 @@ body{
     font-size: 2em;
     font-family: 'Pacifico', cursive;
 }
+
+.title_s{
+    text-align:center;
+    font-family: 'Pacifico', cursive;
+    text-decoration: line-through;
+}
+
 .text{
     text-align: center;
     width:65%;
